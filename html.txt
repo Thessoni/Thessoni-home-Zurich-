@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Moderne Studios, Suiten & Apartments mit Hotelservice in Zürich-Regensdorf. Ideal für Langzeitaufenthalte. Jetzt buchen!">
+  <meta name="keywords" content="Serviced Apartments Zürich, Longstay Hotel Regensdorf, Thessoni home, Business Apartments Zürich">
+  <title>Residence Thessoni home – Serviced Apartments in Zürich</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #002e4d;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #014f86;
+      text-align: center;
+      padding: 1rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+    main {
+      padding: 2rem;
+      max-width: 1200px;
+      margin: auto;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    footer {
+      background-color: #002e4d;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Residence Thessoni home</h1>
+    <p>Ihr Zuhause auf Zeit in Zürich-Regensdorf</p>
+  </header>
+  <nav>
+    <a href="#unterkunft">Unterkunft</a>
+    <a href="#lage">Lage</a>
+    <a href="#services">Services</a>
+    <a href="#kontakt">Kontakt</a>
+  </nav>
+  <main>
+    <section id="unterkunft">
+      <h2>Unterkunftsoptionen</h2>
+      <p>Unsere 44 Studios, Apartments und Suiten bieten ein modernes Wohnkonzept für Kurz- und Langzeitgäste.</p>
+      <ul>
+        <li>Studios ohne Küche – Zugang zur Gemeinschaftsküche</li>
+        <li>Apartments & Suiten mit Küchenmodulen</li>
+        <li>100 m² Gemeinschaftsbereich mit Lounge</li>
+      </ul>
+      <img src="https://www.thessonihome.com/wp-content/uploads/2023/09/Flyer-Thessoni-home-D_23.04.2021_ohneFL.pdf" alt="Wohnbereich">
+    </section>
+
+    <section id="lage">
+      <h2>Lage & Erreichbarkeit</h2>
+      <p>Die Residence Thessoni home liegt nur 1 Minute vom S-Bahnhof Regensdorf entfernt. Direktverbindung nach Zürich HB in 15 Minuten.</p>
+      <ul>
+        <li>3 Minuten zur Autobahn A1</li>
+        <li>10 Minuten zum Katzensee</li>
+        <li>Nahe Restaurants, Supermärkte, Fitnessstudio u.v.m.</li>
+      </ul>
+    </section>
+
+    <section id="services">
+      <h2>Services & Komfort</h2>
+      <ul>
+        <li>Self-Check-in 24/7</li>
+        <li>Reinigungs- & Wäscheservice</li>
+        <li>Frühstück im Thessoni classic oder als Grab & Eat</li>
+        <li>Hochwertige Betten und nachhaltige Materialien</li>
+        <li>Videoüberwachte öffentliche Bereiche</li>
+      </ul>
+    </section>
+
+    <section id="kontakt">
+      <h2>Kontakt & Buchung</h2>
+      <p><strong>Adresse:</strong> Feldstrasse 34, 8105 Zürich-Regensdorf</p>
+      <p><strong>Telefon:</strong> +41 44 870 88 88</p>
+      <p><strong>Email:</strong> <a href="mailto:info@thessoni.com">info@thessoni.com</a></p>
+      <p><strong>Website:</strong> <a href="https://www.thessonihome.com" target="_blank">www.thessonihome.com</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Residence Thessoni home</p>
+  </footer>
+</body>
+</html>
